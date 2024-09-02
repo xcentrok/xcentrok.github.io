@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xcentrok.github.io/sitemap.html.gz
+Sitemap: https://xcentrok.github.io/app/sitemap.html.gz
+Sitemap: https://xcentrok.github.io/assets/sitemap.html.gz
+Sitemap: https://xcentrok.github.io/css/sitemap.html.gz
+Sitemap: https://xcentrok.github.io/includes/sitemap.html.gz
+Sitemap: https://xcentrok.github.io/item/sitemap.html.gz
+Sitemap: https://xcentrok.github.io/src/sitemap.html.gz
